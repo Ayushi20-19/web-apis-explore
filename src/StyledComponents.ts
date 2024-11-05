@@ -147,7 +147,7 @@ export const APIDetailCardLogo = styled.img`
 `;
 
 export const APIDetailCardTitle = styled.h3`
-  color: #3498db;
+  color: white;
 `;
 
 export const APIDetailCardSection = styled.div`
